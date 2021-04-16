@@ -3522,6 +3522,13 @@ input, select, textarea {
 		z-index: 2;
 	}
 
+	/* #t1 {
+		padding-right: 25%;
+	}
+	#t2 {
+		padding-right: 25%;
+	} */
+
 		#header input, #header select, #header textarea {
 			color: #ffffff;
 		}
@@ -3780,6 +3787,10 @@ input, select, textarea {
 
 		#main > .post {
 			padding: 8rem 8rem 6rem 8rem ;
+			/* background: url("../../images/image.jpg");
+			background-size: cover;
+			background-repeat: no-repeat;
+			color: #ffffff; */
 		}
 
 			#main > .post header.major > .date {
